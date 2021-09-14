@@ -1,1 +1,1 @@
-Esta repo esta dedicada para la creacion de un projecto utilizando los datos de la unam
+This is a personal project with learning porpuses only. 
