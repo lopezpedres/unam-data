@@ -1,0 +1,17 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "html-v1-faculties.js",
+  "type": "module",
+  "scripts": {
+    "process-archive-links": "node process-archive-links.cjs",
+    "scrape-chrome-cli": "node scrape-chrome-cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^3.0.0"
+  }
+}
